@@ -8,7 +8,5 @@ export default antfu({
     '**/.output/**',
     'node-modules',
     '**/node-modules/**',
-    '.nitro',
-    '**/.nitro/**',
   ],
 })
